@@ -3,6 +3,7 @@
 
 ##Tidy Data Instructions
 The run_analysis.R script works as following:
+
 1. Load TrainingSet[TRAIN_V] and TestSet[TEST_V] values from "X_train.txt" and "X_test.txt" files respectively.
 2. Load Measures Names from "features.txt".
 3. Filter only means and standard deviation measures.
