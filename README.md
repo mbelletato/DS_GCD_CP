@@ -1,6 +1,6 @@
-Coursera DataScience - Getting and Cleaning Data
-================================================
+Getting and Cleaning Data
+=========================
 
-Course Project - Tidy Data Instructions
----------------------------------------
+Tidy Data Instructions
+----------------------
 
