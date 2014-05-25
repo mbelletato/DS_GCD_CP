@@ -16,13 +16,14 @@ The run_analysis.R script works as following:
 10. Write a file "tidyData.txt" using ";" as column separator.
 
 
-After executing the analysis, 
+After executing the analysis, DATA, MELTDATA and TIDYDATA should be used in order to perform further analysis.
+
 
 ###Scripts
-*run_analysis.R: R script performing the Course Project analysis
-*tidyData.txt: Final DataSet (Course Project - step 5)
-*tidyData_1.txt: Final DataSet (Course Project - step 5)
-*./data/: Main data folder containing Samsung data
+* run_analysis.R: R script performing the Course Project analysis
+* tidyData.txt: Final DataSet (Course Project - step 5)
+* tidyData_1.txt: Complete Tidy DataSet
+* ./data/: Main data folder containing Samsung data
 
 
 ###Data Frames
