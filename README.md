@@ -1,4 +1,6 @@
-DS_GCD_CP
-=========
+Coursera DataScience - Getting and Cleaning Data
+================================================
 
-Coursera DataScience - Getting and Cleaning Data - Course Project
+Course Project - Tidy Data Instructions
+---------------------------------------
+
